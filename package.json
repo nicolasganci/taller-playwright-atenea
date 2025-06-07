@@ -1,0 +1,23 @@
+{
+  "name": "taller-playwright-atenea",
+  "version": "1.0.0",
+  "description": "This will contain all the knowledge from Playwright course",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasganci/taller-playwright-atenea.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nicolasganci/taller-playwright-atenea/issues"
+  },
+  "homepage": "https://github.com/nicolasganci/taller-playwright-atenea#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.30"
+  }
+}
